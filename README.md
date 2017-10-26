@@ -1,5 +1,5 @@
 # Description 
-Simple Google App Script which adds the youtube video to the playlist by communicating google spreadhsheet(SpreadsheetApp API) and Youtube inter-API.
+Simple Google App Script which adds the youtube video to the playlist by communicating google spreadhsheet(SpreadsheetApp API) and Youtube inter-API developed in July 2017
 
 
 #Note
